@@ -1,0 +1,13 @@
+name: app_final
+title: app_final
+username:
+account: meborges
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12503941
+bundleId: 9016922
+url: https://meborges.shinyapps.io/app_final/
+when: 1724375991.10435
+lastSyncTime: 1724375991.10436
+asMultiple: FALSE
+asStatic: FALSE

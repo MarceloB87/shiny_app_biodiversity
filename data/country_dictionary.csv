@@ -1,0 +1,225 @@
+continent,country,countryCode,n,latitude,longitude
+Ocean,Oceans,AB,4905,,
+Africa,Algeria,DZ,459,28.033886,1.659626
+Africa,Angola,AO,149,-11.202692,17.873887
+Africa,Benin,BJ,1187,9.30769,2.315834
+Africa,Botswana,BW,7985,-22.328474,24.684866
+Africa,Burkina Faso,BF,67,12.238333,-1.561593
+Africa,Burundi,BI,200,-3.373056,29.918886
+Africa,Cameroon,CM,474,7.369722,12.354722
+Africa,Cape Verde,CV,7062,16.002082,-24.013197
+Africa,Central African Republic,CF,83,6.611111,20.939444
+Africa,Chad,TD,152,15.454166,18.732207
+Africa,Comoros,KM,10,-11.875001,43.872219
+Africa,Democratic Republic Congo,CD,1800,-4.038333,21.758664
+Africa,Djibouti,DJ,117,11.825138,42.590275
+Africa,Egypt,EG,14284,26.820553,30.802498
+Africa,Equatorial Guinea,GQ,3,1.650801,10.267895
+Africa,Eritrea,ER,4,15.179384,39.782334
+Africa,Ethiopia,ET,27420,9.145,40.489673
+Africa,Gabon,GA,228,-0.803689,11.609444
+Africa,Ghana,GH,15134,7.946527,-1.023194
+Africa,Glorioso Islands,GO,5,-11.5787957965373,47.2972077000732
+Africa,Guinea,GN,3382,9.945587,-9.696645
+Africa,Guinea-Bissau,GW,605,11.803749,-15.180413
+Africa,Ivory Coast,CI,1513,7.539989,-5.54708
+Africa,Kenya,KE,19634,-0.023559,37.906193
+Africa,Lesotho,LS,319,-29.609988,28.233608
+Africa,Liberia,LR,51,6.428055,-9.429499
+Africa,Libya,LY,64,26.3351,17.228331
+Africa,Madagascar,MG,11309,-18.766947,46.869107
+Africa,Malawi,MW,419,-13.254308,34.301525
+Africa,Mali,ML,208,17.570692,-3.996166
+Africa,Mauritania,MR,5432,21.00789,-10.940835
+Africa,Mauritius,MU,536,-20.348404,57.552152
+Africa,Mayotte,YT,24,-12.8275,45.166244
+Africa,Morocco,MA,101101,31.791702,-7.09262
+Africa,Mozambique,MZ,126,-18.665695,35.529562
+Africa,Namibia,NA,22667,-22.95764,18.49041
+Africa,Niger,NE,40,17.607789,8.081666
+Africa,Nigeria,NG,926,9.081999,8.675277
+Africa,Republic of the Congo,CG,267,-0.228021,15.827659
+Africa,Reunion,RE,74,-21.115141,55.536384
+Africa,Rwanda,RW,408,-1.940278,29.873888
+Africa,Sao Tome and Principe,ST,657,0.18636,6.613081
+Africa,Senegal,SN,18306,14.497401,-14.452362
+Africa,Seychelles,SC,1210,-4.679574,55.491977
+Africa,Sierra Leone,SL,44,8.460555,-11.779889
+Africa,Somalia,SO,93,5.152149,46.199616
+Africa,South Africa,ZA,89648,-30.559482,22.937506
+Africa,Sudan,SD,635,12.862807,30.217636
+Africa,Swaziland,SZ,1811,-26.522503,31.465866
+Africa,Tanzania,TZ,14529,-6.369028,34.888822
+Africa,The Gambia,GM,114257,13.443182,-15.310139
+Africa,Togo,TG,181,8.619543,0.824782
+Africa,Tunisia,TN,620,33.886917,9.537499
+Africa,Uganda,UG,13905,1.373333,32.290275
+Africa,Western Sahara,EH,1404,24.215527,-12.885834
+Africa,Zambia,ZM,2850,-13.133897,27.849332
+Africa,Zimbabwe,ZW,1730,-19.015438,29.154857
+Antarctica,Antarctica,AQ,2792,-75.250973,-0.071389
+Antarctica,French Southern & Antarctic Lands,TF,47,-49.280366,69.348557
+Antarctica,South Georgia and the South Sandwich Is,GS,1282,-54.429579,-36.587909
+Antarctica,St. Helena,SH,710,-24.143474,-10.030696
+Asia,Afghanistan,AF,3,33.93911,67.709953
+Asia,Armenia,AM,16284,40.069099,45.038189
+Asia,Azerbaijan,AZ,2697,40.143105,47.576927
+Asia,Bahrain,BH,25,25.930414,50.637772
+Asia,Bangladesh,BD,154,23.684994,90.356331
+Asia,Bhutan,BT,359,27.514162,90.433601
+Asia,Brunei,BN,26,4.535277,114.727669
+Asia,Cambodia,KH,1039,12.565679,104.990963
+Asia,China,CN,13736,35.86166,104.195397
+Asia,Gaza Strip,PS,5143,31.952162,35.233154
+Asia,India,IN,37738,20.593684,78.96288
+Asia,Indonesia,ID,17854,-0.789275,113.921327
+Asia,Iran,IR,4084,32.427908,53.688046
+Asia,Iraq,IQ,73,33.223191,43.679291
+Asia,Israel,IL,60808,31.046051,34.851612
+Asia,Japan,JP,3929,36.204824,138.252924
+Asia,Jordan,JO,3512,30.585164,36.238414
+Asia,Kazakhstan,KZ,1569,48.019573,66.923684
+Asia,Kuwait,KW,656,29.31166,47.481766
+Asia,Kyrgyzstan,KG,831,41.20438,74.766098
+Asia,Laos,LA,261,19.85627,102.495496
+Asia,Lebanon,LB,31,33.854721,35.862285
+Asia,Macau,MO,27,22.198745,113.543873
+Asia,Malaysia,MY,21737,4.210484,101.975766
+Asia,Maldives,MV,39,3.202778,73.22068
+Asia,Mongolia,MN,1547,46.862496,103.846656
+Asia,Myanmar,MM,2815,21.913965,95.956223
+Asia,Nepal,NP,12399,28.394857,84.124008
+Asia,North Korea,KP,20,40.339852,127.510093
+Asia,Oman,OM,47998,21.512583,55.923255
+Asia,Pakistan,PK,51,30.375321,69.345116
+Asia,Papua New Guinea,PG,105,-6.314993,143.95555
+Asia,Philippines,PH,1558,12.879721,121.774017
+Asia,Qatar,QA,1379,25.354826,51.183884
+Asia,Russia,RU,3002,61.52401,105.318756
+Asia,Saudi Arabia,SA,283,23.885942,45.079162
+Asia,Singapore,SG,2849,1.352083,103.819836
+Asia,South Korea,KR,928,35.907757,127.766922
+Asia,Sri Lanka,LK,32631,7.873054,80.771797
+Asia,Syria,SY,334,34.802075,38.996815
+Asia,Taiwan,TW,3107,23.69781,120.960515
+Asia,Tajikistan,TJ,18,38.861034,71.276093
+Asia,Thailand,TH,24132,15.870032,100.992541
+Asia,Turkey,TR,27892,38.963745,35.243322
+Asia,Turkmenistan,TM,23,38.969719,59.556278
+Asia,United Arab Emirates,AE,2237,23.424076,53.847818
+Asia,Uzbekistan,UZ,37,41.377491,64.585262
+Asia,Vietnam,VN,5687,14.058324,108.277199
+Asia,Yemen,YE,130,15.552727,48.516388
+Australia,Australia,AU,42266,-25.274398,133.775136
+Australia,Christmas Island,CX,2,-10.447525,105.690449
+Australia,Cook Islands,CK,48,-21.236736,-159.777671
+Australia,Federated States of Micronesia,FM,7,7.425554,150.550812
+Australia,Fiji,FJ,79,-16.578193,179.414413
+Australia,French Polynesia,PF,10,-17.679742,-149.406843
+Australia,New Caledonia,NC,12808,-20.904305,165.618042
+Australia,New Zealand,NZ,12994,-40.900557,174.885971
+Australia,Northern Mariana Islands,MP,3,17.33083,145.38469
+Australia,Pacific Islands (Palau),PW,2,7.51498,134.58252
+Australia,Pitcairn Islands,PN,3,-24.703615,-127.439308
+Australia,Solomon Islands,SB,67,-9.64571,160.156194
+Australia,Tonga,TO,97,-21.178986,-175.198242
+Australia,Vanuatu,VU,43,-15.376706,166.959158
+Europe,Albania,AL,3280,41.153332,20.168331
+Europe,Andorra,AD,649,42.546245,1.601554
+Europe,Austria,AT,71893,47.516231,14.550072
+Europe,Belarus,BY,7889,53.709807,27.953389
+Europe,Belgium,BE,321,50.503887,4.469936
+Europe,Bosnia and Herzegovina,BA,3338,43.915886,17.679076
+Europe,Bulgaria,BG,59143,42.733883,25.48583
+Europe,Croatia,HR,26487,45.1,15.2
+Europe,Cyprus,CY,10575,35.126413,33.429859
+Europe,Czech Republic,CZ,8698,49.817492,15.472962
+Europe,Denmark,DK,11101,56.26392,9.501785
+Europe,Estonia,EE,14258,58.595272,25.013607
+Europe,Faroe Islands,FO,460,61.892635,-6.911806
+Europe,Finland,FI,17208,61.92411,25.748151
+Europe,France,FR,805421,46.227638,2.213749
+Europe,Georgia,GE,71015,42.315407,43.356892
+Europe,Germany,DE,442382,51.165691,10.451526
+Europe,Gibraltar,GI,454,36.137741,-5.345374
+Europe,Greece,GR,158981,39.074208,21.824312
+Europe,Guernsey,GG,2,49.465691,-2.585278
+Europe,Hungary,HU,41539,47.162494,19.503304
+Europe,Iceland,IS,24732,64.963051,-19.020835
+Europe,Ireland,IE,11246,53.41291,-8.24389
+Europe,Italy,IT,71165,41.87194,12.56738
+Europe,Jan Mayen,SJ,8716,77.553604,23.670272
+Europe,Jersey,JE,1,49.214439,-2.13125
+Europe,Kosovo,KO,107,42.602636,20.902977
+Europe,Latvia,LV,881,56.879635,24.603189
+Europe,Liechtenstein,LI,439,47.166,9.555373
+Europe,Lithuania,LT,13378,55.169438,23.881275
+Europe,Luxembourg,LU,20299,49.815273,6.129583
+Europe,Macedonia,MK,10751,41.608635,21.745275
+Europe,Malta,MT,1477,35.937496,14.375416
+Europe,Moldova,MD,67,47.411631,28.369885
+Europe,Monaco,MC,112,43.750298,7.412841
+Europe,Montenegro,ME,4030,42.708678,19.37439
+Europe,Netherlands,NL,12,52.132633,5.291266
+Europe,Norway,NO,43812,60.472024,8.468946
+Europe,Poland,PL,48461,51.919438,19.145136
+Europe,Portugal,PT,239004,39.399872,-8.224454
+Europe,Romania,RO,123066,45.943161,24.96676
+Europe,San Marino,SM,13,43.94236,12.457777
+Europe,Serbia,RS,4978,44.016521,21.005859
+Europe,Slovakia,SK,4721,48.669026,19.699024
+Europe,Slovenia,SI,19430,46.151241,14.995463
+Europe,Spain,ES,1007465,40.463667,-3.74922
+Europe,Sweden,SE,33251,60.128161,18.643501
+Europe,Switzerland,CH,100172,46.818188,8.227512
+Europe,The Netherlands,NL,35061972,52.132633,5.291266
+Europe,Ukraine,UA,713,48.379433,31.16558
+Europe,United Kingdom,GB,72491,55.378051,-3.435973
+North America,Antigua and Barbuda,AG,12,17.060816,-61.796428
+North America,"Bahamas, The",BS,73,25.03428,-77.39628
+North America,Barbados,BB,4,13.193887,-59.543198
+North America,Belize,BZ,212,17.189877,-88.49765
+North America,Canada,CA,16435,56.130366,-106.346771
+North America,Cayman Islands,KY,9,19.513469,-80.566956
+North America,Costa Rica,CR,54217,9.748917,-83.753428
+North America,Cuba,CU,6807,21.521757,-77.781167
+North America,Dominica,DM,49,15.414999,-61.370976
+North America,Dominican Republic,DO,632,18.735693,-70.162651
+North America,El Salvador,SV,24,13.794185,-88.89653
+North America,Greenland,GL,271,71.706936,-42.604303
+North America,Guadeloupe,GP,128,16.995971,-62.067641
+North America,Guatemala,GT,420,15.783471,-90.230759
+North America,Haiti,HT,32,18.971187,-72.285215
+North America,Honduras,HN,47,15.199999,-86.241905
+North America,Jamaica,JM,226,18.109581,-77.297508
+North America,Mexico,MX,7978,23.634501,-102.552784
+North America,Nicaragua,NI,621,12.865416,-85.207229
+North America,Panama,PA,9570,8.537981,-80.782127
+North America,Puerto Rico,PR,484,18.220833,-66.590149
+North America,St. Pierre and Miquelon,PM,1,46.941936,-56.27111
+North America,United States,US,83408,37.09024,-95.712891
+South America,Anguilla,AI,14,18.220554,-63.068615
+South America,Argentina,AR,8442,-38.416097,-63.616672
+South America,Bolivia,BO,1138,-16.290154,-63.588653
+South America,"Bonaire, Saint Eustatius and Saba",BQ,20984,14.8716253650786,-66.1964805405615
+South America,Brazil,BR,18646,-14.235004,-51.92528
+South America,Chile,CL,2319,-35.675147,-71.542969
+South America,Colombia,CO,6574,4.570868,-74.297333
+South America,Curaçao,CW,9794,12.1542410952233,-68.9634033325671
+South America,Dutch Caribbean/Aruba,AW,3350,12.52111,-69.968338
+South America,Ecuador,EC,21187,-1.831239,-78.183406
+South America,Falkland Islands (Islas Malvinas),FK,853,-51.796253,-59.523613
+South America,French Guiana,GF,228,3.933889,-53.125782
+South America,Guyana,GY,25,4.860416,-58.93018
+South America,Martinique,MQ,20,14.641528,-61.024174
+South America,Paraguay,PY,278,-23.442503,-58.443832
+South America,Peru,PE,18850,-9.189967,-75.015152
+South America,Saint Martin,SX,8307,18.0629754601335,-63.0565826959054
+South America,St. Kitts and Nevis,KN,36,17.357822,-62.782998
+South America,St. Lucia,LC,1,13.909444,-60.978893
+South America,St. Vincent and the Grenadines,VC,15,12.984305,-61.287228
+South America,Suriname,SR,33873,3.919305,-56.027783
+South America,Trinidad and Tobago,TT,617,10.691803,-61.222503
+South America,Uruguay,UY,294,-32.522779,-55.765835
+South America,Venezuela,VE,453,6.42375,-66.58973
+South America,Virgin Islands,VI,1,18.335765,-64.896335

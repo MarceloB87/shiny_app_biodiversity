@@ -32,13 +32,13 @@ speciesTimelineServer <- function(id, filtered_data) {
       if (min(x_limits) > 1984) x_limits[1] <- 1984
       
       # Define breaks for the x-axis (years)
-      x_breaks <- unique(floor(pretty(seq(min(x), (max(x) + 1)), n = 10)))
+      x_breaks <- unique(floor(pretty(seq(min(x_limits), (max(x_limits) + 1)), n = 10)))
       
       # Create a ggplot object for the timeline
       spp_plot <- spp_observation_time_tbl %>%
         ggplot(aes(x = Year, y = Observations)) +
         geom_col(fill = "steelblue", width = 1) +  # Plot observations as bars
-        labs(title = "Observations by year\n", x = "", y = "") +  # Add title and remove axis labels
+        labs(title = "Observations by year\n", xlab = "", ylab = "") +  # Add title and remove axis labels
         theme_minimal() +  # Use a minimal theme for the plot
         theme(axis.line.x = element_line(colour = "darkgrey", linewidth = 0.6)) +  # Customize x-axis line
         scale_y_continuous(

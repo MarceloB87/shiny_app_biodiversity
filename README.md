@@ -2,6 +2,8 @@
 
 This Shiny application visualizes species data from the Global Biodiversity Information Facility (GBIF). It allows users to select countries, view species data on a map, and explore data through tables and timelines. The app is designed for ease of use and flexibility, allowing for dynamic data updates based on user input.
 
+You can access the app via **shinyapps.io** by [clicking here](https://meborges.shinyapps.io/app_final/).
+
 ## Features
 
 - **Country Selection**: Users can select a country from a dropdown menu, which updates the data displayed in the app.
